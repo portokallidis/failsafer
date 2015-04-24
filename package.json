@@ -1,0 +1,29 @@
+{
+  "name": "failsafer",
+  "version": "0.1.0",
+  "description": "Command runner on webhooks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:portokallidis/failsafer.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Nick Portokallidis",
+  "contributors": [
+    
+  ],
+  "license": "MIT"
+}
